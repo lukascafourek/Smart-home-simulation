@@ -1,0 +1,65 @@
+House
+	Floor level 0
+		LIVING_ROOM
+			TV
+			RADIATOR
+			Window
+			Window
+			Window
+		KITCHEN
+			PARROT Squawk: 2 years old
+			CAT Whiskers: 4 years old
+			FRIDGE
+			FRIDGE
+			RADIATOR
+			STOVE
+			MICROWAVE
+			Window
+			Window
+			Window
+		BATHROOM
+			BABY Oliver Smith: 2 years old
+			WC
+			BATHTUB
+			RADIATOR
+		GARAGE
+			BIKE (currently used by CHILD Sophia Smith: 8 years old)
+			BIKE (currently used by FATHER Malcolm Smith: 45 years old)
+			SKI (currently used by TEENAGER Richard Smith: 20 years old)
+			SKI (currently used by TEENAGER Ashley Smith: 16 years old)
+			CAR (currently used by MOTHER Elizabeth Smith: 43 years old)
+	Floor level 1
+		BEDROOM
+			DOG Buford: 5 years old
+			TV
+			SENSOR
+			RADIATOR
+			Window
+			Window
+			Window
+		BATHROOM
+			HAMSTER Nibbles: 1 years old
+			RABBIT Fluffy: 3 years old
+			WC
+			BATHTUB
+			RADIATOR
+		WORK_ROOM
+			PC
+			PRINTER
+			RADIATOR
+			Window
+			Window
+			Window
+		BEDROOM
+			TV
+			RADIATOR
+			Window
+			Window
+			Window
+		WORK_ROOM
+			PC
+			PRINTER
+			RADIATOR
+			Window
+			Window
+			Window

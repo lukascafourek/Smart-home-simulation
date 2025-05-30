@@ -1,0 +1,235 @@
+{
+  "floors": [
+    {
+      "level": 0,
+      "rooms": [
+        {
+          "type": "LIVING_ROOM",
+          "devices": [
+            {
+              "type": "TV"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {},
+            {}
+          ],
+          "people": [
+            {
+              "name": "Malcolm Smith",
+              "age": 45,
+              "type": "FATHER"
+            },
+            {
+              "name": "Elizabeth Smith",
+              "age": 43,
+              "type": "MOTHER"
+            },
+            {
+              "name": "Richard Smith",
+              "age": 20,
+              "type": "TEENAGER"
+            },
+            {
+              "name": "Ashley Smith",
+              "age": 16,
+              "type": "TEENAGER"
+            },
+            {
+              "name": "Sophia Smith",
+              "age": 8,
+              "type": "CHILD"
+            },
+            {
+              "name": "Oliver Smith",
+              "age": 2,
+              "type": "BABY"
+            }
+          ]
+        },
+        {
+          "type": "KITCHEN",
+          "devices": [
+            {
+              "type": "FRIDGE"
+            },
+            {
+              "type": "FRIDGE"
+            },
+            {
+              "type": "RADIATOR"
+            },
+            {
+              "type": "STOVE"
+            },
+            {
+              "type": "MICROWAVE"
+            }
+          ],
+          "windows": [
+            {},
+            {},
+            {}
+          ],
+          "pets": [
+            {
+              "name": "Buford",
+              "age": 5,
+              "type": "DOG"
+            },
+            {
+              "name": "Whiskers",
+              "age": 4,
+              "type": "CAT"
+            },
+            {
+              "name": "Fluffy",
+              "age": 3,
+              "type": "RABBIT"
+            },
+            {
+              "name": "Squawk",
+              "age": 2,
+              "type": "PARROT"
+            },
+            {
+              "name": "Nibbles",
+              "age": 1,
+              "type": "HAMSTER"
+            }
+          ]
+        },
+        {
+          "type": "BATHROOM",
+          "devices": [
+            {
+            "type": "WC"
+            },
+            {
+            "type": "BATHTUB"
+            },
+            {
+            "type": "RADIATOR"
+            }
+          ]
+        },
+        {
+          "type": "GARAGE",
+          "outsideGear": [
+            {
+              "type": "BIKE"
+            },
+            {
+              "type": "BIKE"
+            },
+            {
+              "type": "SKI"
+            },
+            {
+              "type": "SKI"
+            },
+            {
+              "type": "CAR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "type": "BEDROOM",
+          "devices": [
+            {
+              "type": "TV"
+            },
+            {
+              "type": "SENSOR"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "BATHROOM",
+          "devices": [
+            {
+              "type": "WC"
+            },
+            {
+              "type": "BATHTUB"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ]
+        },
+        {
+          "type": "WORK_ROOM",
+          "devices": [
+            {
+              "type": "PC"
+            },
+            {
+              "type": "PRINTER"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "BEDROOM",
+          "devices": [
+            {
+              "type": "TV"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "WORK_ROOM",
+          "devices": [
+            {
+              "type": "PC"
+            },
+            {
+              "type": "PRINTER"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+              {},
+              {},
+              {}
+          ]
+        }
+      ]
+    }
+  ]
+}

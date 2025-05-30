@@ -1,0 +1,174 @@
+FATHER Malcolm Smith: 45 years old used:
+	DOG Buford 3 times
+	PARROT Squawk 4 times
+	CAT Whiskers 3 times
+	HAMSTER Nibbles 4 times
+	RABBIT Fluffy 2 times
+	RADIATOR 8 times
+	BATHTUB 2 times
+	SENSOR 2 times
+	STOVE 2 times
+	WC 3 times
+	TV 4 times
+	RADIATOR 3 times
+	TV 2 times
+	FRIDGE 1 times
+	PC 3 times
+	TV 6 times
+	WC 2 times
+	PC 2 times
+	RADIATOR 2 times
+	PRINTER 5 times
+	FRIDGE 1 times
+	RADIATOR 7 times
+	RADIATOR 2 times
+	BATHTUB 2 times
+	RADIATOR 4 times
+	PRINTER 5 times
+	MICROWAVE 2 times
+	RADIATOR 3 times
+	RADIATOR 1 times
+	SKI 27 times
+	BIKE 23 times
+	CAR 35 times
+	BIKE 27 times
+	SKI 36 times
+
+MOTHER Elizabeth Smith: 43 years old used:
+	DOG Buford 9 times
+	PARROT Squawk 4 times
+	CAT Whiskers 7 times
+	HAMSTER Nibbles 2 times
+	RABBIT Fluffy 5 times
+	RADIATOR 5 times
+	BATHTUB 1 times
+	SENSOR 3 times
+	STOVE 2 times
+	WC 3 times
+	RADIATOR 3 times
+	TV 5 times
+	TV 2 times
+	FRIDGE 4 times
+	PC 4 times
+	TV 4 times
+	WC 3 times
+	PC 2 times
+	RADIATOR 2 times
+	PRINTER 6 times
+	FRIDGE 2 times
+	RADIATOR 3 times
+	RADIATOR 4 times
+	BATHTUB 2 times
+	RADIATOR 1 times
+	RADIATOR 3 times
+	PRINTER 3 times
+	MICROWAVE 1 times
+	RADIATOR 3 times
+	SKI 14 times
+	BIKE 30 times
+	CAR 47 times
+	BIKE 27 times
+	SKI 30 times
+
+TEENAGER Richard Smith: 20 years old used:
+	DOG Buford 2 times
+	PARROT Squawk 8 times
+	CAT Whiskers 3 times
+	HAMSTER Nibbles 3 times
+	RABBIT Fluffy 2 times
+	RADIATOR 1 times
+	BATHTUB 4 times
+	SENSOR 1 times
+	WC 6 times
+	RADIATOR 4 times
+	TV 1 times
+	FRIDGE 3 times
+	TV 4 times
+	PC 8 times
+	TV 6 times
+	WC 2 times
+	PC 2 times
+	RADIATOR 2 times
+	FRIDGE 3 times
+	PRINTER 1 times
+	RADIATOR 4 times
+	RADIATOR 5 times
+	BATHTUB 3 times
+	RADIATOR 2 times
+	RADIATOR 2 times
+	MICROWAVE 4 times
+	PRINTER 4 times
+	RADIATOR 1 times
+	SKI 25 times
+	BIKE 20 times
+	CAR 54 times
+	BIKE 23 times
+	SKI 26 times
+
+TEENAGER Ashley Smith: 16 years old used:
+	DOG Buford 3 times
+	PARROT Squawk 4 times
+	CAT Whiskers 8 times
+	HAMSTER Nibbles 3 times
+	RABBIT Fluffy 3 times
+	RADIATOR 8 times
+	BATHTUB 5 times
+	STOVE 2 times
+	SENSOR 7 times
+	WC 4 times
+	RADIATOR 3 times
+	TV 6 times
+	TV 6 times
+	FRIDGE 4 times
+	PC 4 times
+	TV 8 times
+	PC 1 times
+	WC 2 times
+	RADIATOR 6 times
+	FRIDGE 5 times
+	PRINTER 3 times
+	RADIATOR 11 times
+	RADIATOR 1 times
+	BATHTUB 3 times
+	RADIATOR 5 times
+	PRINTER 3 times
+	MICROWAVE 3 times
+	RADIATOR 3 times
+	RADIATOR 3 times
+	SKI 50 times
+	BIKE 48 times
+	BIKE 19 times
+	SKI 26 times
+
+CHILD Sophia Smith: 8 years old used:
+	DOG Buford 10 times
+	PARROT Squawk 3 times
+	CAT Whiskers 5 times
+	HAMSTER Nibbles 3 times
+	RABBIT Fluffy 7 times
+	RADIATOR 5 times
+	BATHTUB 1 times
+	SENSOR 6 times
+	STOVE 1 times
+	WC 5 times
+	TV 6 times
+	RADIATOR 4 times
+	TV 1 times
+	PC 7 times
+	TV 4 times
+	PC 5 times
+	RADIATOR 2 times
+	PRINTER 3 times
+	FRIDGE 3 times
+	RADIATOR 1 times
+	RADIATOR 2 times
+	BATHTUB 5 times
+	RADIATOR 3 times
+	PRINTER 5 times
+	RADIATOR 2 times
+	RADIATOR 5 times
+	SKI 35 times
+	BIKE 26 times
+	BIKE 54 times
+	SKI 29 times
+

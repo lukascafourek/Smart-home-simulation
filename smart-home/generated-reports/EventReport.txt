@@ -1,0 +1,915 @@
+1: WIND caused by Sensor solved by Windows
+2: TEMP_CHANGE caused by Sensor solved by Radiators
+3: TEMP_CHANGE caused by Sensor solved by Radiators
+4: TEMP_CHANGE caused by Sensor solved by Radiators
+5: TEMP_CHANGE caused by Sensor solved by Radiators
+6: WIND caused by Sensor solved by Windows
+7: TEMP_CHANGE caused by Sensor solved by Radiators
+8: TEMP_CHANGE caused by Sensor solved by Radiators
+9: WIND caused by Sensor solved by Windows
+10: WIND caused by Sensor solved by Windows
+11: TEMP_CHANGE caused by Sensor solved by Radiators
+13: TEMP_CHANGE caused by Sensor solved by Radiators
+12: REFILL_INK caused by Printer solved by TEENAGER Richard Smith
+14: WIND caused by Sensor solved by Windows
+15: WIND caused by Sensor solved by Windows
+16: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+17: TEMP_CHANGE caused by Sensor solved by Radiators
+18: TEMP_CHANGE caused by Sensor solved by Radiators
+19: TEMP_CHANGE caused by Sensor solved by Radiators
+20: TEMP_CHANGE caused by Sensor solved by Radiators
+21: WIND caused by Sensor solved by Windows
+23: WIND caused by Sensor solved by Windows
+24: CRYING_BABY caused by Baby solved by CHILD Sophia Smith
+22: FIRE caused by Room solved by CHILD Sophia Smith
+25: FIRE caused by Room solved by TEENAGER Ashley Smith
+26: EMPTY_FRIDGE caused by Fridge solved by TEENAGER Richard Smith
+27: WIND caused by Sensor solved by Windows
+28: TEMP_CHANGE caused by Sensor solved by Radiators
+29: TEMP_CHANGE caused by Sensor solved by Radiators
+30: WIND caused by Sensor solved by Windows
+31: WIND caused by Sensor solved by Windows
+32: TEMP_CHANGE caused by Sensor solved by Radiators
+33: TEMP_CHANGE caused by Sensor solved by Radiators
+34: TEMP_CHANGE caused by Sensor solved by Radiators
+35: TEMP_CHANGE caused by Sensor solved by Radiators
+36: WIND caused by Sensor solved by Windows
+37: FIRE caused by Room solved by TEENAGER Richard Smith
+38: WIND caused by Sensor solved by Windows
+39: FIRE caused by Room solved by MOTHER Elizabeth Smith
+40: WIND caused by Sensor solved by Windows
+41: TEMP_CHANGE caused by Sensor solved by Radiators
+42: TEMP_CHANGE caused by Sensor solved by Radiators
+43: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+44: BREAK caused by PC solved by FATHER Malcolm Smith
+45: WIND caused by Sensor solved by Windows
+46: BREAK caused by WC solved by FATHER Malcolm Smith
+47: FIRE caused by Room solved by TEENAGER Ashley Smith
+48: WIND caused by Sensor solved by Windows
+49: BREAK caused by Radiator solved by TEENAGER Richard Smith
+51: TEMP_CHANGE caused by Sensor solved by Radiators
+50: BREAK caused by Sensor solved by TEENAGER Richard Smith
+52: BREAK caused by Radiator solved by TEENAGER Richard Smith
+53: BREAK caused by Radiator solved by TEENAGER Richard Smith
+54: TEMP_CHANGE caused by Sensor solved by Radiators
+58: BREAK caused by Stove solved by MOTHER Elizabeth Smith
+55: BREAK caused by Bathtub solved by TEENAGER Richard Smith
+56: BREAK caused by Radiator solved by TEENAGER Richard Smith
+57: BREAK caused by Printer solved by TEENAGER Richard Smith
+61: BREAK caused by TV solved by FATHER Malcolm Smith
+62: BREAK caused by PC solved by FATHER Malcolm Smith
+63: BREAK caused by Radiator solved by FATHER Malcolm Smith
+59: BREAK caused by Fridge solved by CHILD Sophia Smith
+60: BREAK caused by WC solved by CHILD Sophia Smith
+64: CRYING_BABY caused by Baby solved by CHILD Sophia Smith
+65: BREAK caused by TV solved by CHILD Sophia Smith
+66: FIRE caused by Room solved by CHILD Sophia Smith
+67: TEMP_CHANGE caused by Sensor solved by Radiators
+68: TEMP_CHANGE caused by Sensor solved by Radiators
+69: TEMP_CHANGE caused by Sensor solved by Radiators
+70: TEMP_CHANGE caused by Sensor solved by Radiators
+71: WIND caused by Sensor solved by Windows
+72: BREAK caused by TV solved by FATHER Malcolm Smith
+78: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+79: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+80: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+73: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+74: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+75: BREAK caused by Fridge solved by MOTHER Elizabeth Smith
+76: BREAK caused by Microwave solved by MOTHER Elizabeth Smith
+77: FIRE caused by Room solved by MOTHER Elizabeth Smith
+81: TEMP_CHANGE caused by Sensor solved by Radiators
+82: TEMP_CHANGE caused by Sensor solved by Radiators
+83: WIND caused by Sensor solved by Windows
+84: TEMP_CHANGE caused by Sensor solved by Radiators
+85: FIRE caused by Room solved by CHILD Sophia Smith
+86: TEMP_CHANGE caused by Sensor solved by Radiators
+87: WIND caused by Sensor solved by Windows
+88: FIRE caused by Room solved by MOTHER Elizabeth Smith
+89: TEMP_CHANGE caused by Sensor solved by Radiators
+90: TEMP_CHANGE caused by Sensor solved by Radiators
+91: TEMP_CHANGE caused by Sensor solved by Radiators
+92: TEMP_CHANGE caused by Sensor solved by Radiators
+93: WIND caused by Sensor solved by Windows
+94: WIND caused by Sensor solved by Windows
+96: TEMP_CHANGE caused by Sensor solved by Radiators
+95: FIRE caused by Room solved by FATHER Malcolm Smith
+97: TEMP_CHANGE caused by Sensor solved by Radiators
+98: WIND caused by Sensor solved by Windows
+99: TEMP_CHANGE caused by Sensor solved by Radiators
+100: TEMP_CHANGE caused by Sensor solved by Radiators
+101: TEMP_CHANGE caused by Sensor solved by Radiators
+102: FIRE caused by Room solved by FATHER Malcolm Smith
+103: TEMP_CHANGE caused by Sensor solved by Radiators
+104: BREAK caused by PC solved by FATHER Malcolm Smith
+105: TEMP_CHANGE caused by Sensor solved by Radiators
+106: TEMP_CHANGE caused by Sensor solved by Radiators
+107: BREAK caused by Printer solved by CHILD Sophia Smith
+108: WIND caused by Sensor solved by Windows
+109: WIND caused by Sensor solved by Windows
+110: WIND caused by Sensor solved by Windows
+111: WIND caused by Sensor solved by Windows
+112: CRYING_BABY caused by Baby solved by MOTHER Elizabeth Smith
+113: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+114: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+115: CRYING_BABY caused by Baby solved by MOTHER Elizabeth Smith
+116: BREAK caused by WC solved by MOTHER Elizabeth Smith
+117: TEMP_CHANGE caused by Sensor solved by Radiators
+118: TEMP_CHANGE caused by Sensor solved by Radiators
+119: BREAK caused by Stove solved by MOTHER Elizabeth Smith
+120: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+121: TEMP_CHANGE caused by Sensor solved by Radiators
+122: BREAK caused by PC solved by CHILD Sophia Smith
+124: TEMP_CHANGE caused by Sensor solved by Radiators
+125: WIND caused by Sensor solved by Windows
+123: BREAK caused by Sensor solved by TEENAGER Ashley Smith
+126: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+127: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+128: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+131: WIND caused by Sensor solved by Windows
+132: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+129: BREAK caused by Fridge solved by FATHER Malcolm Smith
+130: BREAK caused by WC solved by FATHER Malcolm Smith
+133: WIND caused by Sensor solved by Windows
+134: WIND caused by Sensor solved by Windows
+135: BREAK caused by Radiator solved by FATHER Malcolm Smith
+136: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+137: BREAK caused by Fridge solved by MOTHER Elizabeth Smith
+138: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+139: FIRE caused by Room solved by MOTHER Elizabeth Smith
+140: WIND caused by Sensor solved by Windows
+141: WIND caused by Sensor solved by Windows
+142: WIND caused by Sensor solved by Windows
+143: WIND caused by Sensor solved by Windows
+144: WIND caused by Sensor solved by Windows
+146: TEMP_CHANGE caused by Sensor solved by Radiators
+147: TEMP_CHANGE caused by Sensor solved by Radiators
+145: FIRE caused by Room solved by MOTHER Elizabeth Smith
+148: WIND caused by Sensor solved by Windows
+149: WIND caused by Sensor solved by Windows
+150: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+151: BREAK caused by TV solved by FATHER Malcolm Smith
+152: FIRE caused by Room solved by FATHER Malcolm Smith
+153: BREAK caused by Microwave solved by FATHER Malcolm Smith
+154: BREAK caused by TV solved by MOTHER Elizabeth Smith
+155: WIND caused by Sensor solved by Windows
+156: BREAK caused by PC solved by MOTHER Elizabeth Smith
+157: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+158: WIND caused by Sensor solved by Windows
+159: BREAK caused by TV solved by MOTHER Elizabeth Smith
+160: TEMP_CHANGE caused by Sensor solved by Radiators
+161: TEMP_CHANGE caused by Sensor solved by Radiators
+162: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+163: WIND caused by Sensor solved by Windows
+164: TEMP_CHANGE caused by Sensor solved by Radiators
+165: TEMP_CHANGE caused by Sensor solved by Radiators
+166: TEMP_CHANGE caused by Sensor solved by Radiators
+167: TEMP_CHANGE caused by Sensor solved by Radiators
+168: TEMP_CHANGE caused by Sensor solved by Radiators
+169: TEMP_CHANGE caused by Sensor solved by Radiators
+170: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+171: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+172: BREAK caused by Printer solved by FATHER Malcolm Smith
+173: TEMP_CHANGE caused by Sensor solved by Radiators
+174: TEMP_CHANGE caused by Sensor solved by Radiators
+175: REFILL_INK caused by Printer solved by MOTHER Elizabeth Smith
+176: WIND caused by Sensor solved by Windows
+177: WIND caused by Sensor solved by Windows
+179: TEMP_CHANGE caused by Sensor solved by Radiators
+180: TEMP_CHANGE caused by Sensor solved by Radiators
+181: WIND caused by Sensor solved by Windows
+178: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+182: TEMP_CHANGE caused by Sensor solved by Radiators
+183: TEMP_CHANGE caused by Sensor solved by Radiators
+184: FIRE caused by Room solved by FATHER Malcolm Smith
+185: BREAK caused by PC solved by FATHER Malcolm Smith
+186: BREAK caused by WC solved by TEENAGER Richard Smith
+187: FIRE caused by Room solved by CHILD Sophia Smith
+188: BREAK caused by Stove solved by CHILD Sophia Smith
+189: BREAK caused by Bathtub solved by CHILD Sophia Smith
+192: BREAK caused by WC solved by FATHER Malcolm Smith
+193: BREAK caused by Fridge solved by FATHER Malcolm Smith
+190: BREAK caused by Sensor solved by FATHER Malcolm Smith
+191: BREAK caused by Radiator solved by FATHER Malcolm Smith
+194: FIRE caused by Room solved by TEENAGER Ashley Smith
+195: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+196: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+197: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+198: EMPTY_FRIDGE caused by Fridge solved by CHILD Sophia Smith
+199: FIRE caused by Room solved by FATHER Malcolm Smith
+200: TEMP_CHANGE caused by Sensor solved by Radiators
+201: FIRE caused by Room solved by CHILD Sophia Smith
+202: TEMP_CHANGE caused by Sensor solved by Radiators
+203: BREAK caused by PC solved by CHILD Sophia Smith
+204: BREAK caused by Radiator solved by CHILD Sophia Smith
+205: BREAK caused by Radiator solved by CHILD Sophia Smith
+206: BREAK caused by Fridge solved by CHILD Sophia Smith
+207: BREAK caused by Radiator solved by CHILD Sophia Smith
+208: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+209: TEMP_CHANGE caused by Sensor solved by Radiators
+210: FIRE caused by Room solved by MOTHER Elizabeth Smith
+211: TEMP_CHANGE caused by Sensor solved by Radiators
+212: WIND caused by Sensor solved by Windows
+213: TEMP_CHANGE caused by Sensor solved by Radiators
+214: TEMP_CHANGE caused by Sensor solved by Radiators
+215: BREAK caused by Printer solved by CHILD Sophia Smith
+216: WIND caused by Sensor solved by Windows
+217: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+218: WIND caused by Sensor solved by Windows
+219: FIRE caused by Room solved by CHILD Sophia Smith
+220: WIND caused by Sensor solved by Windows
+221: WIND caused by Sensor solved by Windows
+222: BREAK caused by TV solved by MOTHER Elizabeth Smith
+223: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+224: TEMP_CHANGE caused by Sensor solved by Radiators
+225: BREAK caused by PC solved by CHILD Sophia Smith
+226: TEMP_CHANGE caused by Sensor solved by Radiators
+227: TEMP_CHANGE caused by Sensor solved by Radiators
+228: TEMP_CHANGE caused by Sensor solved by Radiators
+229: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+230: FIRE caused by Room solved by TEENAGER Richard Smith
+231: BREAK caused by TV solved by MOTHER Elizabeth Smith
+232: FIRE caused by Room solved by MOTHER Elizabeth Smith
+233: WIND caused by Sensor solved by Windows
+234: WIND caused by Sensor solved by Windows
+235: BREAK caused by Microwave solved by TEENAGER Richard Smith
+236: TEMP_CHANGE caused by Sensor solved by Radiators
+237: TEMP_CHANGE caused by Sensor solved by Radiators
+238: WIND caused by Sensor solved by Windows
+239: FIRE caused by Room solved by MOTHER Elizabeth Smith
+240: TEMP_CHANGE caused by Sensor solved by Radiators
+241: TEMP_CHANGE caused by Sensor solved by Radiators
+242: WIND caused by Sensor solved by Windows
+243: WIND caused by Sensor solved by Windows
+244: BREAK caused by PC solved by MOTHER Elizabeth Smith
+245: TEMP_CHANGE caused by Sensor solved by Radiators
+246: BREAK caused by Printer solved by FATHER Malcolm Smith
+247: TEMP_CHANGE caused by Sensor solved by Radiators
+248: WIND caused by Sensor solved by Windows
+249: BREAK caused by Printer solved by TEENAGER Ashley Smith
+250: FIRE caused by Room solved by TEENAGER Ashley Smith
+252: TEMP_CHANGE caused by Sensor solved by Radiators
+251: CRYING_BABY caused by Baby solved by MOTHER Elizabeth Smith
+253: TEMP_CHANGE caused by Sensor solved by Radiators
+254: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+255: FIRE caused by Room solved by FATHER Malcolm Smith
+256: TEMP_CHANGE caused by Sensor solved by Radiators
+257: BREAK caused by Stove solved by FATHER Malcolm Smith
+258: TEMP_CHANGE caused by Sensor solved by Radiators
+259: WIND caused by Sensor solved by Windows
+263: WIND caused by Sensor solved by Windows
+260: BREAK caused by TV solved by TEENAGER Richard Smith
+261: FIRE caused by Room solved by TEENAGER Richard Smith
+262: BREAK caused by WC solved by TEENAGER Richard Smith
+264: BREAK caused by Fridge solved by TEENAGER Richard Smith
+265: BREAK caused by Radiator solved by TEENAGER Richard Smith
+266: WIND caused by Sensor solved by Windows
+267: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+268: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+269: WIND caused by Sensor solved by Windows
+270: BREAK caused by WC solved by FATHER Malcolm Smith
+271: WIND caused by Sensor solved by Windows
+272: WIND caused by Sensor solved by Windows
+273: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+274: WIND caused by Sensor solved by Windows
+275: WIND caused by Sensor solved by Windows
+276: WIND caused by Sensor solved by Windows
+277: WIND caused by Sensor solved by Windows
+278: TEMP_CHANGE caused by Sensor solved by Radiators
+279: BREAK caused by Fridge solved by CHILD Sophia Smith
+280: BREAK caused by Sensor solved by MOTHER Elizabeth Smith
+281: TEMP_CHANGE caused by Sensor solved by Radiators
+282: BREAK caused by PC solved by MOTHER Elizabeth Smith
+283: WIND caused by Sensor solved by Windows
+284: WIND caused by Sensor solved by Windows
+285: FIRE caused by Room solved by TEENAGER Richard Smith
+286: BREAK caused by PC solved by MOTHER Elizabeth Smith
+287: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+288: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+289: BREAK caused by Radiator solved by FATHER Malcolm Smith
+290: TEMP_CHANGE caused by Sensor solved by Radiators
+291: BREAK caused by Bathtub solved by CHILD Sophia Smith
+292: FIRE caused by Room solved by CHILD Sophia Smith
+293: TEMP_CHANGE caused by Sensor solved by Radiators
+294: TEMP_CHANGE caused by Sensor solved by Radiators
+295: TEMP_CHANGE caused by Sensor solved by Radiators
+296: WIND caused by Sensor solved by Windows
+297: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+298: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+299: CRYING_BABY caused by Baby solved by CHILD Sophia Smith
+300: WIND caused by Sensor solved by Windows
+303: WIND caused by Sensor solved by Windows
+304: WIND caused by Sensor solved by Windows
+301: FIRE caused by Room solved by CHILD Sophia Smith
+302: CRYING_BABY caused by Baby solved by CHILD Sophia Smith
+305: BREAK caused by Printer solved by CHILD Sophia Smith
+306: WIND caused by Sensor solved by Windows
+307: TEMP_CHANGE caused by Sensor solved by Radiators
+308: TEMP_CHANGE caused by Sensor solved by Radiators
+309: WIND caused by Sensor solved by Windows
+310: WIND caused by Sensor solved by Windows
+311: TEMP_CHANGE caused by Sensor solved by Radiators
+312: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+313: TEMP_CHANGE caused by Sensor solved by Radiators
+314: WIND caused by Sensor solved by Windows
+315: WIND caused by Sensor solved by Windows
+316: FIRE caused by Room solved by MOTHER Elizabeth Smith
+317: WIND caused by Sensor solved by Windows
+318: BREAK caused by TV solved by TEENAGER Richard Smith
+319: WIND caused by Sensor solved by Windows
+320: TEMP_CHANGE caused by Sensor solved by Radiators
+321: TEMP_CHANGE caused by Sensor solved by Radiators
+322: WIND caused by Sensor solved by Windows
+323: BREAK caused by Radiator solved by TEENAGER Richard Smith
+324: WIND caused by Sensor solved by Windows
+325: BREAK caused by PC solved by TEENAGER Ashley Smith
+326: BREAK caused by TV solved by TEENAGER Ashley Smith
+327: WIND caused by Sensor solved by Windows
+330: WIND caused by Sensor solved by Windows
+331: BREAK caused by Microwave solved by FATHER Malcolm Smith
+328: FIRE caused by Room solved by FATHER Malcolm Smith
+329: BREAK caused by WC solved by FATHER Malcolm Smith
+332: TEMP_CHANGE caused by Sensor solved by Radiators
+333: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+334: TEMP_CHANGE caused by Sensor solved by Radiators
+335: BREAK caused by Fridge solved by TEENAGER Richard Smith
+336: BREAK caused by Stove solved by TEENAGER Richard Smith
+337: WIND caused by Sensor solved by Windows
+338: BREAK caused by PC solved by TEENAGER Richard Smith
+339: WIND caused by Sensor solved by Windows
+340: WIND caused by Sensor solved by Windows
+341: BREAK caused by Radiator solved by FATHER Malcolm Smith
+342: BREAK caused by Printer solved by FATHER Malcolm Smith
+343: WIND caused by Sensor solved by Windows
+344: TEMP_CHANGE caused by Sensor solved by Radiators
+345: BREAK caused by WC solved by MOTHER Elizabeth Smith
+346: TEMP_CHANGE caused by Sensor solved by Radiators
+347: TEMP_CHANGE caused by Sensor solved by Radiators
+348: TEMP_CHANGE caused by Sensor solved by Radiators
+349: BREAK caused by Radiator solved by TEENAGER Richard Smith
+350: TEMP_CHANGE caused by Sensor solved by Radiators
+351: TEMP_CHANGE caused by Sensor solved by Radiators
+352: WIND caused by Sensor solved by Windows
+353: FIRE caused by Room solved by TEENAGER Richard Smith
+354: WIND caused by Sensor solved by Windows
+355: BREAK caused by Radiator solved by FATHER Malcolm Smith
+356: BREAK caused by Printer solved by FATHER Malcolm Smith
+358: BREAK caused by Sensor solved by MOTHER Elizabeth Smith
+359: BREAK caused by TV solved by MOTHER Elizabeth Smith
+357: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+360: WIND caused by Sensor solved by Windows
+361: WIND caused by Sensor solved by Windows
+362: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+363: BREAK caused by Fridge solved by TEENAGER Ashley Smith
+364: TEMP_CHANGE caused by Sensor solved by Radiators
+365: TEMP_CHANGE caused by Sensor solved by Radiators
+366: WIND caused by Sensor solved by Windows
+369: TEMP_CHANGE caused by Sensor solved by Radiators
+367: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+368: FIRE caused by Room solved by MOTHER Elizabeth Smith
+370: TEMP_CHANGE caused by Sensor solved by Radiators
+371: TEMP_CHANGE caused by Sensor solved by Radiators
+372: TEMP_CHANGE caused by Sensor solved by Radiators
+373: FIRE caused by Room solved by FATHER Malcolm Smith
+374: TEMP_CHANGE caused by Sensor solved by Radiators
+375: TEMP_CHANGE caused by Sensor solved by Radiators
+376: WIND caused by Sensor solved by Windows
+378: WIND caused by Sensor solved by Windows
+377: BREAK caused by Radiator solved by CHILD Sophia Smith
+379: TEMP_CHANGE caused by Sensor solved by Radiators
+380: TEMP_CHANGE caused by Sensor solved by Radiators
+381: WIND caused by Sensor solved by Windows
+382: TEMP_CHANGE caused by Sensor solved by Radiators
+383: TEMP_CHANGE caused by Sensor solved by Radiators
+384: TEMP_CHANGE caused by Sensor solved by Radiators
+385: TEMP_CHANGE caused by Sensor solved by Radiators
+386: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+387: WIND caused by Sensor solved by Windows
+388: WIND caused by Sensor solved by Windows
+389: WIND caused by Sensor solved by Windows
+390: WIND caused by Sensor solved by Windows
+391: TEMP_CHANGE caused by Sensor solved by Radiators
+392: TEMP_CHANGE caused by Sensor solved by Radiators
+393: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+394: BREAK caused by PC solved by FATHER Malcolm Smith
+395: TEMP_CHANGE caused by Sensor solved by Radiators
+396: FIRE caused by Room solved by TEENAGER Ashley Smith
+397: TEMP_CHANGE caused by Sensor solved by Radiators
+398: TEMP_CHANGE caused by Sensor solved by Radiators
+400: TEMP_CHANGE caused by Sensor solved by Radiators
+401: WIND caused by Sensor solved by Windows
+399: BREAK caused by PC solved by CHILD Sophia Smith
+402: WIND caused by Sensor solved by Windows
+403: WIND caused by Sensor solved by Windows
+405: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+404: BREAK caused by Radiator solved by TEENAGER Richard Smith
+406: BREAK caused by WC solved by TEENAGER Richard Smith
+407: TEMP_CHANGE caused by Sensor solved by Radiators
+408: TEMP_CHANGE caused by Sensor solved by Radiators
+409: BREAK caused by WC solved by CHILD Sophia Smith
+410: TEMP_CHANGE caused by Sensor solved by Radiators
+411: BREAK caused by TV solved by FATHER Malcolm Smith
+412: TEMP_CHANGE caused by Sensor solved by Radiators
+413: BREAK caused by Fridge solved by TEENAGER Richard Smith
+414: BREAK caused by Stove solved by TEENAGER Richard Smith
+415: TEMP_CHANGE caused by Sensor solved by Radiators
+416: TEMP_CHANGE caused by Sensor solved by Radiators
+417: BREAK caused by Radiator solved by FATHER Malcolm Smith
+418: BREAK caused by TV solved by MOTHER Elizabeth Smith
+419: TEMP_CHANGE caused by Sensor solved by Radiators
+420: TEMP_CHANGE caused by Sensor solved by Radiators
+421: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+422: WIND caused by Sensor solved by Windows
+423: BREAK caused by Radiator solved by CHILD Sophia Smith
+424: WIND caused by Sensor solved by Windows
+425: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+426: REFILL_INK caused by Printer solved by MOTHER Elizabeth Smith
+427: TEMP_CHANGE caused by Sensor solved by Radiators
+428: FIRE caused by Room solved by TEENAGER Richard Smith
+429: BREAK caused by Radiator solved by TEENAGER Richard Smith
+430: TEMP_CHANGE caused by Sensor solved by Radiators
+431: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+432: WIND caused by Sensor solved by Windows
+433: BREAK caused by Microwave solved by MOTHER Elizabeth Smith
+434: TEMP_CHANGE caused by Sensor solved by Radiators
+435: FIRE caused by Room solved by MOTHER Elizabeth Smith
+436: TEMP_CHANGE caused by Sensor solved by Radiators
+437: WIND caused by Sensor solved by Windows
+438: WIND caused by Sensor solved by Windows
+439: TEMP_CHANGE caused by Sensor solved by Radiators
+440: TEMP_CHANGE caused by Sensor solved by Radiators
+441: WIND caused by Sensor solved by Windows
+442: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+443: WIND caused by Sensor solved by Windows
+444: TEMP_CHANGE caused by Sensor solved by Radiators
+445: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+446: TEMP_CHANGE caused by Sensor solved by Radiators
+447: WIND caused by Sensor solved by Windows
+448: TEMP_CHANGE caused by Sensor solved by Radiators
+449: TEMP_CHANGE caused by Sensor solved by Radiators
+450: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+451: BREAK caused by Fridge solved by MOTHER Elizabeth Smith
+452: BREAK caused by Sensor solved by CHILD Sophia Smith
+454: TEMP_CHANGE caused by Sensor solved by Radiators
+453: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+455: TEMP_CHANGE caused by Sensor solved by Radiators
+456: WIND caused by Sensor solved by Windows
+457: CRYING_BABY caused by Baby solved by TEENAGER Ashley Smith
+458: TEMP_CHANGE caused by Sensor solved by Radiators
+459: TEMP_CHANGE caused by Sensor solved by Radiators
+461: TEMP_CHANGE caused by Sensor solved by Radiators
+460: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+462: TEMP_CHANGE caused by Sensor solved by Radiators
+463: WIND caused by Sensor solved by Windows
+464: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+465: WIND caused by Sensor solved by Windows
+466: TEMP_CHANGE caused by Sensor solved by Radiators
+469: TEMP_CHANGE caused by Sensor solved by Radiators
+470: WIND caused by Sensor solved by Windows
+467: BREAK caused by PC solved by FATHER Malcolm Smith
+468: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+471: WIND caused by Sensor solved by Windows
+472: BREAK caused by PC solved by FATHER Malcolm Smith
+473: TEMP_CHANGE caused by Sensor solved by Radiators
+474: TEMP_CHANGE caused by Sensor solved by Radiators
+475: BREAK caused by Printer solved by TEENAGER Ashley Smith
+476: BREAK caused by TV solved by TEENAGER Ashley Smith
+477: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+478: TEMP_CHANGE caused by Sensor solved by Radiators
+479: TEMP_CHANGE caused by Sensor solved by Radiators
+480: WIND caused by Sensor solved by Windows
+481: WIND caused by Sensor solved by Windows
+482: BREAK caused by WC solved by MOTHER Elizabeth Smith
+483: TEMP_CHANGE caused by Sensor solved by Radiators
+484: TEMP_CHANGE caused by Sensor solved by Radiators
+485: FIRE caused by Garage solved by FATHER Malcolm Smith
+486: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+487: TEMP_CHANGE caused by Sensor solved by Radiators
+490: TEMP_CHANGE caused by Sensor solved by Radiators
+488: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+489: BREAK caused by WC solved by MOTHER Elizabeth Smith
+491: CRYING_BABY caused by Baby solved by TEENAGER Ashley Smith
+492: BREAK caused by Stove solved by TEENAGER Ashley Smith
+493: TEMP_CHANGE caused by Sensor solved by Radiators
+494: TEMP_CHANGE caused by Sensor solved by Radiators
+495: WIND caused by Sensor solved by Windows
+496: WIND caused by Sensor solved by Windows
+499: TEMP_CHANGE caused by Sensor solved by Radiators
+497: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+498: BREAK caused by Printer solved by TEENAGER Ashley Smith
+500: TEMP_CHANGE caused by Sensor solved by Radiators
+501: WIND caused by Sensor solved by Windows
+502: BREAK caused by Radiator solved by FATHER Malcolm Smith
+503: WIND caused by Sensor solved by Windows
+504: WIND caused by Sensor solved by Windows
+505: TEMP_CHANGE caused by Sensor solved by Radiators
+506: TEMP_CHANGE caused by Sensor solved by Radiators
+507: FIRE caused by Room solved by FATHER Malcolm Smith
+508: BREAK caused by Fridge solved by FATHER Malcolm Smith
+509: FIRE caused by Room solved by FATHER Malcolm Smith
+510: WIND caused by Sensor solved by Windows
+511: BREAK caused by Radiator solved by TEENAGER Richard Smith
+512: WIND caused by Sensor solved by Windows
+513: BREAK caused by TV solved by FATHER Malcolm Smith
+514: WIND caused by Sensor solved by Windows
+515: WIND caused by Sensor solved by Windows
+516: BREAK caused by PC solved by TEENAGER Ashley Smith
+517: FIRE caused by Room solved by TEENAGER Ashley Smith
+519: TEMP_CHANGE caused by Sensor solved by Radiators
+518: BREAK caused by Fridge solved by TEENAGER Ashley Smith
+520: BREAK caused by Radiator solved by FATHER Malcolm Smith
+522: TEMP_CHANGE caused by Sensor solved by Radiators
+521: BREAK caused by TV solved by TEENAGER Richard Smith
+523: BREAK caused by Printer solved by TEENAGER Richard Smith
+524: BREAK caused by Bathtub solved by CHILD Sophia Smith
+526: TEMP_CHANGE caused by Sensor solved by Radiators
+528: TEMP_CHANGE caused by Sensor solved by Radiators
+525: BREAK caused by Microwave solved by FATHER Malcolm Smith
+527: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+529: TEMP_CHANGE caused by Sensor solved by Radiators
+530: CRYING_BABY caused by Baby solved by TEENAGER Ashley Smith
+531: TEMP_CHANGE caused by Sensor solved by Radiators
+532: BREAK caused by Radiator solved by CHILD Sophia Smith
+533: WIND caused by Sensor solved by Windows
+534: WIND caused by Sensor solved by Windows
+535: FIRE caused by Room solved by FATHER Malcolm Smith
+536: TEMP_CHANGE caused by Sensor solved by Radiators
+537: FIRE caused by Room solved by CHILD Sophia Smith
+538: TEMP_CHANGE caused by Sensor solved by Radiators
+539: BREAK caused by Sensor solved by MOTHER Elizabeth Smith
+540: WIND caused by Sensor solved by Windows
+541: WIND caused by Sensor solved by Windows
+542: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+543: WIND caused by Sensor solved by Windows
+544: WIND caused by Sensor solved by Windows
+545: TEMP_CHANGE caused by Sensor solved by Radiators
+546: TEMP_CHANGE caused by Sensor solved by Radiators
+547: WIND caused by Sensor solved by Windows
+548: TEMP_CHANGE caused by Sensor solved by Radiators
+549: BREAK caused by Stove solved by MOTHER Elizabeth Smith
+550: FIRE caused by Room solved by MOTHER Elizabeth Smith
+551: TEMP_CHANGE caused by Sensor solved by Radiators
+552: WIND caused by Sensor solved by Windows
+553: BREAK caused by PC solved by TEENAGER Ashley Smith
+554: BREAK caused by Printer solved by FATHER Malcolm Smith
+555: WIND caused by Sensor solved by Windows
+556: TEMP_CHANGE caused by Sensor solved by Radiators
+557: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+558: TEMP_CHANGE caused by Sensor solved by Radiators
+559: WIND caused by Sensor solved by Windows
+560: TEMP_CHANGE caused by Sensor solved by Radiators
+561: TEMP_CHANGE caused by Sensor solved by Radiators
+564: TEMP_CHANGE caused by Sensor solved by Radiators
+562: BREAK caused by WC solved by MOTHER Elizabeth Smith
+563: FIRE caused by Room solved by MOTHER Elizabeth Smith
+565: TEMP_CHANGE caused by Sensor solved by Radiators
+566: FIRE caused by Room solved by CHILD Sophia Smith
+567: TEMP_CHANGE caused by Sensor solved by Radiators
+569: CRYING_BABY caused by Baby solved by TEENAGER Ashley Smith
+568: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+570: TEMP_CHANGE caused by Sensor solved by Radiators
+571: WIND caused by Sensor solved by Windows
+572: WIND caused by Sensor solved by Windows
+575: WIND caused by Sensor solved by Windows
+573: BREAK caused by WC solved by TEENAGER Richard Smith
+574: BREAK caused by TV solved by TEENAGER Richard Smith
+576: WIND caused by Sensor solved by Windows
+577: BREAK caused by Fridge solved by FATHER Malcolm Smith
+578: BREAK caused by PC solved by FATHER Malcolm Smith
+579: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+580: BREAK caused by Fridge solved by FATHER Malcolm Smith
+581: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+583: TEMP_CHANGE caused by Sensor solved by Radiators
+582: FIRE caused by Garage solved by CHILD Sophia Smith
+584: BREAK caused by Radiator solved by CHILD Sophia Smith
+585: TEMP_CHANGE caused by Sensor solved by Radiators
+586: WIND caused by Sensor solved by Windows
+587: TEMP_CHANGE caused by Sensor solved by Radiators
+588: TEMP_CHANGE caused by Sensor solved by Radiators
+589: TEMP_CHANGE caused by Sensor solved by Radiators
+590: TEMP_CHANGE caused by Sensor solved by Radiators
+591: TEMP_CHANGE caused by Sensor solved by Radiators
+592: TEMP_CHANGE caused by Sensor solved by Radiators
+593: WIND caused by Sensor solved by Windows
+594: WIND caused by Sensor solved by Windows
+595: BREAK caused by Radiator solved by FATHER Malcolm Smith
+596: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+598: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+597: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+599: TEMP_CHANGE caused by Sensor solved by Radiators
+600: TEMP_CHANGE caused by Sensor solved by Radiators
+601: WIND caused by Sensor solved by Windows
+602: WIND caused by Sensor solved by Windows
+603: WIND caused by Sensor solved by Windows
+604: BREAK caused by Radiator solved by FATHER Malcolm Smith
+605: FIRE caused by Room solved by MOTHER Elizabeth Smith
+607: WIND caused by Sensor solved by Windows
+606: FIRE caused by Garage solved by CHILD Sophia Smith
+608: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+609: BREAK caused by Printer solved by TEENAGER Richard Smith
+610: WIND caused by Sensor solved by Windows
+611: BREAK caused by TV solved by FATHER Malcolm Smith
+613: BREAK caused by Sensor solved by MOTHER Elizabeth Smith
+614: TEMP_CHANGE caused by Sensor solved by Radiators
+612: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+615: TEMP_CHANGE caused by Sensor solved by Radiators
+619: TEMP_CHANGE caused by Sensor solved by Radiators
+616: BREAK caused by TV solved by TEENAGER Richard Smith
+617: BREAK caused by Microwave solved by TEENAGER Richard Smith
+618: FIRE caused by Garage solved by TEENAGER Richard Smith
+620: TEMP_CHANGE caused by Sensor solved by Radiators
+621: BREAK caused by PC solved by TEENAGER Ashley Smith
+622: TEMP_CHANGE caused by Sensor solved by Radiators
+623: TEMP_CHANGE caused by Sensor solved by Radiators
+624: WIND caused by Sensor solved by Windows
+625: WIND caused by Sensor solved by Windows
+626: FIRE caused by Room solved by MOTHER Elizabeth Smith
+629: WIND caused by Sensor solved by Windows
+627: BREAK caused by Stove solved by CHILD Sophia Smith
+628: FIRE caused by Room solved by CHILD Sophia Smith
+630: WIND caused by Sensor solved by Windows
+631: WIND caused by Sensor solved by Windows
+632: WIND caused by Sensor solved by Windows
+633: TEMP_CHANGE caused by Sensor solved by Radiators
+634: TEMP_CHANGE caused by Sensor solved by Radiators
+635: BREAK caused by PC solved by MOTHER Elizabeth Smith
+636: BREAK caused by WC solved by MOTHER Elizabeth Smith
+637: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+638: FIRE caused by Room solved by MOTHER Elizabeth Smith
+639: WIND caused by Sensor solved by Windows
+640: BREAK caused by Fridge solved by FATHER Malcolm Smith
+641: FIRE caused by Room solved by FATHER Malcolm Smith
+642: WIND caused by Sensor solved by Windows
+643: BREAK caused by Radiator solved by TEENAGER Richard Smith
+644: BREAK caused by WC solved by MOTHER Elizabeth Smith
+645: WIND caused by Sensor solved by Windows
+646: WIND caused by Sensor solved by Windows
+647: WIND caused by Sensor solved by Windows
+648: WIND caused by Sensor solved by Windows
+649: WIND caused by Sensor solved by Windows
+650: WIND caused by Sensor solved by Windows
+651: BREAK caused by Printer solved by TEENAGER Ashley Smith
+652: TEMP_CHANGE caused by Sensor solved by Radiators
+653: TEMP_CHANGE caused by Sensor solved by Radiators
+654: BREAK caused by Fridge solved by MOTHER Elizabeth Smith
+655: WIND caused by Sensor solved by Windows
+656: TEMP_CHANGE caused by Sensor solved by Radiators
+657: BREAK caused by Radiator solved by FATHER Malcolm Smith
+658: TEMP_CHANGE caused by Sensor solved by Radiators
+659: TEMP_CHANGE caused by Sensor solved by Radiators
+662: TEMP_CHANGE caused by Sensor solved by Radiators
+660: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+661: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+663: BREAK caused by TV solved by MOTHER Elizabeth Smith
+664: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+665: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+666: BREAK caused by Radiator solved by FATHER Malcolm Smith
+667: FIRE caused by Room solved by FATHER Malcolm Smith
+668: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+669: TEMP_CHANGE caused by Sensor solved by Radiators
+670: TEMP_CHANGE caused by Sensor solved by Radiators
+671: WIND caused by Sensor solved by Windows
+672: WIND caused by Sensor solved by Windows
+673: WIND caused by Sensor solved by Windows
+674: WIND caused by Sensor solved by Windows
+675: TEMP_CHANGE caused by Sensor solved by Radiators
+677: TEMP_CHANGE caused by Sensor solved by Radiators
+676: BREAK caused by PC solved by CHILD Sophia Smith
+678: WIND caused by Sensor solved by Windows
+679: TEMP_CHANGE caused by Sensor solved by Radiators
+680: TEMP_CHANGE caused by Sensor solved by Radiators
+681: WIND caused by Sensor solved by Windows
+682: WIND caused by Sensor solved by Windows
+683: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+684: FIRE caused by Room solved by FATHER Malcolm Smith
+685: BREAK caused by Stove solved by FATHER Malcolm Smith
+686: TEMP_CHANGE caused by Sensor solved by Radiators
+687: TEMP_CHANGE caused by Sensor solved by Radiators
+688: WIND caused by Sensor solved by Windows
+689: WIND caused by Sensor solved by Windows
+690: WIND caused by Sensor solved by Windows
+692: TEMP_CHANGE caused by Sensor solved by Radiators
+693: TEMP_CHANGE caused by Sensor solved by Radiators
+694: WIND caused by Sensor solved by Windows
+691: BREAK caused by Radiator solved by CHILD Sophia Smith
+695: WIND caused by Sensor solved by Windows
+696: TEMP_CHANGE caused by Sensor solved by Radiators
+697: TEMP_CHANGE caused by Sensor solved by Radiators
+698: TEMP_CHANGE caused by Sensor solved by Radiators
+699: TEMP_CHANGE caused by Sensor solved by Radiators
+700: WIND caused by Sensor solved by Windows
+701: WIND caused by Sensor solved by Windows
+702: TEMP_CHANGE caused by Sensor solved by Radiators
+703: BREAK caused by Sensor solved by FATHER Malcolm Smith
+704: TEMP_CHANGE caused by Sensor solved by Radiators
+705: TEMP_CHANGE caused by Sensor solved by Radiators
+708: TEMP_CHANGE caused by Sensor solved by Radiators
+709: WIND caused by Sensor solved by Windows
+706: BREAK caused by WC solved by CHILD Sophia Smith
+707: FIRE caused by Room solved by CHILD Sophia Smith
+710: BREAK caused by PC solved by CHILD Sophia Smith
+711: BREAK caused by Fridge solved by TEENAGER Richard Smith
+712: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+713: BREAK caused by Microwave solved by MOTHER Elizabeth Smith
+714: WIND caused by Sensor solved by Windows
+715: WIND caused by Sensor solved by Windows
+716: TEMP_CHANGE caused by Sensor solved by Radiators
+717: BREAK caused by TV solved by FATHER Malcolm Smith
+718: BREAK caused by Radiator solved by FATHER Malcolm Smith
+720: TEMP_CHANGE caused by Sensor solved by Radiators
+721: WIND caused by Sensor solved by Windows
+719: REFILL_INK caused by Printer solved by CHILD Sophia Smith
+722: WIND caused by Sensor solved by Windows
+723: TEMP_CHANGE caused by Sensor solved by Radiators
+724: TEMP_CHANGE caused by Sensor solved by Radiators
+725: BREAK caused by Printer solved by FATHER Malcolm Smith
+727: WIND caused by Sensor solved by Windows
+730: TEMP_CHANGE caused by Sensor solved by Radiators
+726: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+728: FIRE caused by Room solved by MOTHER Elizabeth Smith
+729: BREAK caused by Fridge solved by MOTHER Elizabeth Smith
+731: TEMP_CHANGE caused by Sensor solved by Radiators
+732: TEMP_CHANGE caused by Sensor solved by Radiators
+734: TEMP_CHANGE caused by Sensor solved by Radiators
+735: BREAK caused by WC solved by MOTHER Elizabeth Smith
+733: BREAK caused by TV solved by TEENAGER Richard Smith
+736: WIND caused by Sensor solved by Windows
+737: WIND caused by Sensor solved by Windows
+738: TEMP_CHANGE caused by Sensor solved by Radiators
+739: TEMP_CHANGE caused by Sensor solved by Radiators
+740: BREAK caused by Bathtub solved by TEENAGER Ashley Smith
+742: TEMP_CHANGE caused by Sensor solved by Radiators
+741: BREAK caused by Radiator solved by TEENAGER Richard Smith
+743: TEMP_CHANGE caused by Sensor solved by Radiators
+744: WIND caused by Sensor solved by Windows
+745: WIND caused by Sensor solved by Windows
+746: BREAK caused by Radiator solved by FATHER Malcolm Smith
+747: BREAK caused by PC solved by FATHER Malcolm Smith
+748: TEMP_CHANGE caused by Sensor solved by Radiators
+749: BREAK caused by Radiator solved by FATHER Malcolm Smith
+750: TEMP_CHANGE caused by Sensor solved by Radiators
+751: WIND caused by Sensor solved by Windows
+752: WIND caused by Sensor solved by Windows
+753: BREAK caused by Radiator solved by TEENAGER Richard Smith
+754: TEMP_CHANGE caused by Sensor solved by Radiators
+755: TEMP_CHANGE caused by Sensor solved by Radiators
+756: BREAK caused by Bathtub solved by MOTHER Elizabeth Smith
+757: WIND caused by Sensor solved by Windows
+758: WIND caused by Sensor solved by Windows
+759: TEMP_CHANGE caused by Sensor solved by Radiators
+760: TEMP_CHANGE caused by Sensor solved by Radiators
+761: WIND caused by Sensor solved by Windows
+762: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+763: WIND caused by Sensor solved by Windows
+765: BREAK caused by PC solved by FATHER Malcolm Smith
+764: BREAK caused by Stove solved by FATHER Malcolm Smith
+766: FIRE caused by Garage solved by FATHER Malcolm Smith
+767: TEMP_CHANGE caused by Sensor solved by Radiators
+768: BREAK caused by Radiator solved by FATHER Malcolm Smith
+769: TEMP_CHANGE caused by Sensor solved by Radiators
+770: CRYING_BABY caused by Baby solved by MOTHER Elizabeth Smith
+771: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+772: TEMP_CHANGE caused by Sensor solved by Radiators
+773: TEMP_CHANGE caused by Sensor solved by Radiators
+774: BREAK caused by Printer solved by CHILD Sophia Smith
+775: WIND caused by Sensor solved by Windows
+776: WIND caused by Sensor solved by Windows
+777: WIND caused by Sensor solved by Windows
+778: BREAK caused by Printer solved by FATHER Malcolm Smith
+779: BREAK caused by WC solved by TEENAGER Richard Smith
+780: EMPTY_FRIDGE caused by Fridge solved by TEENAGER Richard Smith
+781: TEMP_CHANGE caused by Sensor solved by Radiators
+782: TEMP_CHANGE caused by Sensor solved by Radiators
+783: CRYING_BABY caused by Baby solved by MOTHER Elizabeth Smith
+784: FIRE caused by Room solved by MOTHER Elizabeth Smith
+785: BREAK caused by Sensor solved by FATHER Malcolm Smith
+786: FIRE caused by Room solved by FATHER Malcolm Smith
+787: FIRE caused by Room solved by CHILD Sophia Smith
+788: CRYING_BABY caused by Baby solved by CHILD Sophia Smith
+789: BREAK caused by TV solved by CHILD Sophia Smith
+790: TEMP_CHANGE caused by Sensor solved by Radiators
+791: TEMP_CHANGE caused by Sensor solved by Radiators
+792: BREAK caused by Radiator solved by FATHER Malcolm Smith
+793: WIND caused by Sensor solved by Windows
+794: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+796: WIND caused by Sensor solved by Windows
+795: BREAK caused by Fridge solved by CHILD Sophia Smith
+797: WIND caused by Sensor solved by Windows
+798: WIND caused by Sensor solved by Windows
+799: WIND caused by Sensor solved by Windows
+800: BREAK caused by PC solved by CHILD Sophia Smith
+801: BREAK caused by Bathtub solved by CHILD Sophia Smith
+802: WIND caused by Sensor solved by Windows
+803: TEMP_CHANGE caused by Sensor solved by Radiators
+804: BREAK caused by Microwave solved by FATHER Malcolm Smith
+805: TEMP_CHANGE caused by Sensor solved by Radiators
+806: WIND caused by Sensor solved by Windows
+807: WIND caused by Sensor solved by Windows
+808: BREAK caused by Radiator solved by CHILD Sophia Smith
+809: BREAK caused by Fridge solved by FATHER Malcolm Smith
+810: FIRE caused by Garage solved by TEENAGER Ashley Smith
+811: BREAK caused by TV solved by TEENAGER Ashley Smith
+812: BREAK caused by PC solved by TEENAGER Ashley Smith
+813: BREAK caused by Radiator solved by TEENAGER Ashley Smith
+814: FIRE caused by Room solved by TEENAGER Ashley Smith
+815: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+816: WIND caused by Sensor solved by Windows
+817: WIND caused by Sensor solved by Windows
+818: CRYING_BABY caused by Baby solved by MOTHER Elizabeth Smith
+819: BREAK caused by Radiator solved by TEENAGER Richard Smith
+820: BREAK caused by Bathtub solved by TEENAGER Richard Smith
+821: TEMP_CHANGE caused by Sensor solved by Radiators
+823: TEMP_CHANGE caused by Sensor solved by Radiators
+822: BREAK caused by WC solved by TEENAGER Ashley Smith
+824: WIND caused by Sensor solved by Windows
+825: BREAK caused by TV solved by MOTHER Elizabeth Smith
+826: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+827: FIRE caused by Room solved by MOTHER Elizabeth Smith
+828: WIND caused by Sensor solved by Windows
+829: TEMP_CHANGE caused by Sensor solved by Radiators
+830: TEMP_CHANGE caused by Sensor solved by Radiators
+831: FIRE caused by Room solved by FATHER Malcolm Smith
+832: TEMP_CHANGE caused by Sensor solved by Radiators
+833: FIRE caused by Room solved by TEENAGER Ashley Smith
+835: TEMP_CHANGE caused by Sensor solved by Radiators
+836: WIND caused by Sensor solved by Windows
+834: BREAK caused by Stove solved by TEENAGER Ashley Smith
+837: TEMP_CHANGE caused by Sensor solved by Radiators
+839: TEMP_CHANGE caused by Sensor solved by Radiators
+840: WIND caused by Sensor solved by Windows
+838: FIRE caused by Room solved by MOTHER Elizabeth Smith
+842: WIND caused by Sensor solved by Windows
+841: FIRE caused by Garage solved by FATHER Malcolm Smith
+843: WIND caused by Sensor solved by Windows
+846: WIND caused by Sensor solved by Windows
+844: BREAK caused by Radiator solved by FATHER Malcolm Smith
+845: FIRE caused by Room solved by FATHER Malcolm Smith
+847: FIRE caused by Room solved by TEENAGER Richard Smith
+848: BREAK caused by Printer solved by TEENAGER Richard Smith
+849: BREAK caused by WC solved by TEENAGER Richard Smith
+850: WIND caused by Sensor solved by Windows
+851: WIND caused by Sensor solved by Windows
+852: TEMP_CHANGE caused by Sensor solved by Radiators
+853: TEMP_CHANGE caused by Sensor solved by Radiators
+854: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+855: FIRE caused by Garage solved by MOTHER Elizabeth Smith
+856: CRYING_BABY caused by Baby solved by FATHER Malcolm Smith
+857: FIRE caused by Room solved by MOTHER Elizabeth Smith
+858: BREAK caused by Sensor solved by CHILD Sophia Smith
+859: TEMP_CHANGE caused by Sensor solved by Radiators
+860: TEMP_CHANGE caused by Sensor solved by Radiators
+861: WIND caused by Sensor solved by Windows
+862: WIND caused by Sensor solved by Windows
+863: WIND caused by Sensor solved by Windows
+865: BREAK caused by PC solved by FATHER Malcolm Smith
+866: BREAK caused by PC solved by FATHER Malcolm Smith
+864: BREAK caused by Radiator solved by FATHER Malcolm Smith
+868: FIRE caused by Room solved by MOTHER Elizabeth Smith
+867: BREAK caused by Printer solved by MOTHER Elizabeth Smith
+869: BREAK caused by Bathtub solved by TEENAGER Richard Smith
+870: BREAK caused by Radiator solved by TEENAGER Richard Smith
+871: FIRE caused by Room solved by TEENAGER Richard Smith
+872: TEMP_CHANGE caused by Sensor solved by Radiators
+873: TEMP_CHANGE caused by Sensor solved by Radiators
+874: WIND caused by Sensor solved by Windows
+875: WIND caused by Sensor solved by Windows
+876: BREAK caused by Radiator solved by TEENAGER Richard Smith
+877: CRYING_BABY caused by Baby solved by TEENAGER Ashley Smith
+878: BREAK caused by TV solved by FATHER Malcolm Smith
+879: BREAK caused by Fridge solved by MOTHER Elizabeth Smith
+880: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+881: FIRE caused by Room solved by MOTHER Elizabeth Smith
+882: TEMP_CHANGE caused by Sensor solved by Radiators
+883: TEMP_CHANGE caused by Sensor solved by Radiators
+884: BREAK caused by Printer solved by TEENAGER Ashley Smith
+885: FIRE caused by Room solved by TEENAGER Ashley Smith
+886: BREAK caused by Fridge solved by TEENAGER Ashley Smith
+887: FIRE caused by Room solved by TEENAGER Ashley Smith
+888: TEMP_CHANGE caused by Sensor solved by Radiators
+889: TEMP_CHANGE caused by Sensor solved by Radiators
+890: BREAK caused by Radiator solved by MOTHER Elizabeth Smith
+891: TEMP_CHANGE caused by Sensor solved by Radiators
+892: BREAK caused by Stove solved by FATHER Malcolm Smith
+893: BREAK caused by Microwave solved by FATHER Malcolm Smith
+894: TEMP_CHANGE caused by Sensor solved by Radiators
+895: WIND caused by Sensor solved by Windows
+896: WIND caused by Sensor solved by Windows
+897: BREAK caused by TV solved by FATHER Malcolm Smith
+898: BREAK caused by Bathtub solved by FATHER Malcolm Smith
+899: FIRE caused by Room solved by TEENAGER Ashley Smith
+900: BREAK caused by WC solved by TEENAGER Richard Smith
+901: BREAK caused by Radiator solved by FATHER Malcolm Smith
+902: TEMP_CHANGE caused by Sensor solved by Radiators
+903: TEMP_CHANGE caused by Sensor solved by Radiators
+905: TEMP_CHANGE caused by Sensor solved by Radiators
+906: CRYING_BABY caused by Baby solved by TEENAGER Richard Smith
+904: FIRE caused by Room solved by TEENAGER Richard Smith
+907: FIRE caused by Room solved by FATHER Malcolm Smith
+908: TEMP_CHANGE caused by Sensor solved by Radiators
+909: WIND caused by Sensor solved by Windows
+910: WIND caused by Sensor solved by Windows
+911: BREAK caused by Radiator solved by CHILD Sophia Smith
+912: TEMP_CHANGE caused by Sensor solved by Radiators
+913: TEMP_CHANGE caused by Sensor solved by Radiators
+914: BREAK caused by TV solved by TEENAGER Ashley Smith
+915: FIRE caused by Room solved by TEENAGER Ashley Smith

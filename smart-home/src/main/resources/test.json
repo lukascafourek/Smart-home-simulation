@@ -1,0 +1,72 @@
+{
+  "floors": [
+    {
+      "level": 0,
+      "rooms": [
+        {
+          "type": "LIVING_ROOM",
+          "devices": [
+            {
+              "type": "TV"
+            },
+            {
+              "type": "SENSOR"
+            }
+          ],
+          "windows": [
+            {},
+            {}
+          ],
+          "people": [
+            {
+              "name": "John Doe",
+              "age": 33,
+              "type": "FATHER"
+            },
+            {
+              "name": "Liz Doe",
+              "age": 1,
+              "type": "BABY"
+            }
+          ]
+        },
+        {
+          "type": "KITCHEN",
+          "devices": [
+            {
+              "type": "FRIDGE"
+            }
+          ],
+          "windows": [
+            {}
+          ],
+          "pets": [
+            {
+              "name": "Rex",
+              "age": 3,
+              "type": "DOG"
+            }
+          ],
+            "people": [
+                {
+                "name": "Jane Doe",
+                "age": 30,
+                "type": "MOTHER"
+                }
+            ]
+        },
+        {
+          "type": "GARAGE",
+          "outsideGear": [
+            {
+              "type": "BIKE"
+            },
+            {
+              "type": "SKI"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

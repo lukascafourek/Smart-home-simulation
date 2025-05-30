@@ -1,0 +1,196 @@
+{
+  "floors": [
+    {
+      "level": 0,
+      "rooms": [
+        {
+          "type": "LIVING_ROOM",
+          "devices": [
+            {
+              "type": "TV"
+            },
+            {
+              "type": "SENSOR"
+            },
+            {
+              "type": "PC"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {}
+          ],
+          "people": [
+            {
+              "name": "John Doe",
+              "age": 33,
+              "type": "FATHER"
+            },
+            {
+              "name": "Liz Doe",
+              "age": 1,
+              "type": "BABY"
+            }
+          ]
+        },
+        {
+          "type": "KITCHEN",
+          "devices": [
+            {
+              "type": "FRIDGE"
+            },
+            {
+              "type": "RADIATOR"
+            },
+            {
+              "type": "STOVE"
+            },
+            {
+              "type": "MICROWAVE"
+            }
+          ],
+          "windows": [
+            {}
+          ],
+          "pets": [
+            {
+              "name": "Rex",
+              "age": 3,
+              "type": "DOG"
+            },
+            {
+              "name": "Mittens",
+              "age": 2,
+              "type": "CAT"
+            }
+          ],
+          "people": [
+            {
+              "name": "Jane Doe",
+              "age": 30,
+              "type": "MOTHER"
+            }
+          ]
+        },
+        {
+          "type": "GARAGE",
+          "outsideGear": [
+            {
+              "type": "BIKE"
+            },
+            {
+              "type": "BIKE"
+            },
+            {
+              "type": "SKI"
+            },
+            {
+              "type": "CAR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "type": "BEDROOM",
+          "devices": [
+            {
+              "type": "PC"
+            },
+            {
+              "type": "PC"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {}
+          ],
+          "pets": [
+            {
+              "name": "Fluffy",
+              "age": 1,
+              "type": "RABBIT"
+            }
+          ],
+          "people": [
+            {
+              "name": "James Doe",
+              "age": 10,
+              "type": "CHILD"
+            },
+            {
+              "name": "Katrina Doe",
+              "age": 8,
+              "type": "CHILD"
+            }
+          ]
+        },
+        {
+          "type": "BATHROOM",
+          "devices": [
+            {
+            "type": "WC"
+            },
+            {
+            "type": "BATHTUB"
+            },
+            {
+            "type": "RADIATOR"
+            }
+          ],
+          "people": [
+            {
+            "name": "Thomas Doe",
+            "age": 17,
+            "type": "TEENAGER"
+            }
+          ]
+        },
+        {
+          "type": "WORK_ROOM",
+          "devices": [
+            {
+              "type": "PC"
+            },
+            {
+              "type": "PRINTER"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {}
+          ]
+        },
+        {
+          "type": "BEDROOM",
+          "devices": [
+            {
+              "type": "TV"
+            },
+            {
+              "type": "PC"
+            },
+            {
+              "type": "RADIATOR"
+            }
+          ],
+          "windows": [
+            {},
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

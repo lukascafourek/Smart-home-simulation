@@ -1,0 +1,221 @@
+TV used:
+	25,4 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		85,7 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+FRIDGE used:
+	100,0 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		337,1 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+FRIDGE used:
+	100,0 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		337,0 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+STOVE used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	3,0 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		44,9 CZK for gas.
+
+MICROWAVE used:
+	1,8 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		5,9 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+WC used:
+	0,0 kWh of electricity.
+	0,1 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		11,4 CZK for water.
+		0,0 CZK for gas.
+
+BATHTUB used:
+	0,0 kWh of electricity.
+	0,2 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		25,4 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+TV used:
+	54,2 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		182,8 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+SENSOR used:
+	1,0 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		3,4 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+WC used:
+	0,0 kWh of electricity.
+	0,1 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		6,4 CZK for water.
+		0,0 CZK for gas.
+
+BATHTUB used:
+	0,0 kWh of electricity.
+	0,3 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		38,1 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+PC used:
+	13,2 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		44,5 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+PRINTER used:
+	1,4 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		4,7 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+TV used:
+	48,5 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		163,4 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+PC used:
+	14,3 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		48,1 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+PRINTER used:
+	1,8 kWh of electricity.
+	0,0 m^3 of water.
+	0,0 m^3 of gas.
+	Cost:
+		6,2 CZK for electricity.
+		0,0 CZK for water.
+		0,0 CZK for gas.
+
+RADIATOR used:
+	0,0 kWh of electricity.
+	0,0 m^3 of water.
+	48,3 m^3 of gas.
+	Cost:
+		0,0 CZK for electricity.
+		0,0 CZK for water.
+		723,5 CZK for gas.
+
+Total cost:
+	1218,6 CZK for electricity.
+	81,3 CZK for water.
+	5833,2 CZK for gas.
+	7133,2 CZK in total.

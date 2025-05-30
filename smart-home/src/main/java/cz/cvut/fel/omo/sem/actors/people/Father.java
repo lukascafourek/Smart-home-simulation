@@ -1,0 +1,22 @@
+package cz.cvut.fel.omo.sem.actors.people;
+
+import cz.cvut.fel.omo.sem.events.EventObservableImpl;
+import cz.cvut.fel.omo.sem.events.EventType;
+import cz.cvut.fel.omo.sem.house.Room;
+import cz.cvut.fel.omo.sem.reports.ActivityAndUsageReport;
+
+/**
+ * Child class represents a child person in the simulation.
+ */
+public class Father extends Person {
+
+    public Father(String name, int age, Room room, PersonType type) {
+        super(name, age, room, type);
+        ActivityAndUsageReport.getInstance().addPerson(this);
+        EventObservableImpl.getInstance().addObserver(EventType.BREAK, this);
+        EventObservableImpl.getInstance().addObserver(EventType.CRYING_BABY, this);
+        EventObservableImpl.getInstance().addObserver(EventType.EMPTY_FRIDGE, this);
+        EventObservableImpl.getInstance().addObserver(EventType.FIRE, this);
+        EventObservableImpl.getInstance().addObserver(EventType.REFILL_INK, this);
+    }
+}
